@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    color: rgb(246, 242, 242);
+    font-family: monospace;
+    text-decoration: underline;
+    padding-left: 10px;
+}
+
+#paragraph-1{
+    color: rgb(255, 255, 255);
+    font-size: larger;
+    font-family: "Open Sans";
+    padding-left: 10px;
+}
+h3{
+    color: rgb(246, 242, 242);
+    font-family: monospace;
+}
+img{
+    align-self: center;
+    border-radius: 35%;
+}
+#about_me{
+    color: rgb(246, 242, 242);
+    padding-left: 10px;
+}
+#heading_skills{
+    color: rgb(246, 242, 242);
+    font-family: monospace;
+    padding-left: 10px;
+    font-size: 200%;
+}
+#list_skills{
+    color: rgb(246, 242, 242);
+    font-family: monospace;
+    font-size: 150%;
+    
+}
